@@ -1,7 +1,7 @@
 # Hi there, I'm Ali Akram Khan! 👋 
 ___
 
-## I'm a passionate MERN Stack Developer from In.
+## I'm a passionate MERN Stack Developer from India.
 ___
 
 
