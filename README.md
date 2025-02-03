@@ -6,7 +6,7 @@ ___
 
 
 ### About Me
-- 🔭 I’m currently working on projects with Skep - An interior design company.
+- 🔭 I’m currently working on projects with Ads View - An digital advertising company.
 - 🌱 I’m currently learning about nextjs and typescripts.
 - 👯 I’m looking to collaborate with other developerss.
 - ⚡ Fun fact: I love  Client.
